@@ -10,6 +10,8 @@ yarn install
 yarn serve
 ```
 
+<img src="/docs/lisrRepos.png" alt="List Repos Image"/>
+
 ### Compiles and minifies for production
 ```
 yarn build
